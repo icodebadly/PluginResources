@@ -230,6 +230,47 @@ AdvancedTags+advancedtags.about+About the plugin+/advancedtags about
 AdvancedTags+advancedtags.assign+Assign a tag to a player+/advancedtags assign
 AdvancedTags+advancedtags.help+Plugin help+/advancedtags
 AdvancedTags+advancedtags.reload+Reload configs+/advancedtags reload
+AncientGates+ancientgates.*+Gives access to all Ancient Gates and commands.+/*
+AncientGates+ancientgates.close+Allows the use of Ancient Gates close command.+/close
+AncientGates+ancientgates.closeall+Allows the use of Ancient Gates closeall command.+/closeall
+AncientGates+ancientgates.create+Allows the use of Ancient Gates create command.+/create
+AncientGates+ancientgates.delete+Allows the use of Ancient Gates deete command.+/delete
+AncientGates+ancientgates.help+Allows the use of Ancient Gates help command.+/help
+AncientGates+ancientgates.info+Allows the use of Ancient Gates info command.+/info
+AncientGates+ancientgates.info.exec+Allows access to exec info in info command.+/exec
+AncientGates+ancientgates.list+Allows the use of Gates list command.+/list
+AncientGates+ancientgates.open+Allows the use of Ancient Gates open command.+/open
+AncientGates+ancientgates.openall+Allows the use of Ancient Gates openall command.+/openall
+AncientGates+ancientgates.remexec+Allows the use of Ancient Gates remexec command.+/remexec
+AncientGates+ancientgates.rename+Allows the use of Ancient Gates rename command.+/rename
+AncientGates+ancientgates.setbungeetype+Allows the use of Ancient Gates setbungeetype command.+/setbungeetype
+AncientGates+ancientgates.setconf+Allows the use of Ancient Gates setconf command.+/setconf
+AncientGates+ancientgates.setcost+Allows the use of Ancient Gates setcost command.+/setcost
+AncientGates+ancientgates.setentities+Allows the use of Ancient Gates setentities command.+/setentities
+AncientGates+ancientgates.setexec+Allows the use of Ancient Gates setexec command.+/setexec
+AncientGates+ancientgates.setfrom+Allows the use of Ancient Gsates setfrom command.+/setfrom
+AncientGates+ancientgates.setinv+Allows the use of Ancient Gates setinventory command.+/setinv
+AncientGates+ancientgates.setmaterial+Allows the use of Ancient Gates setmaterial command.+/setmaterial
+AncientGates+ancientgates.setmessage+Allows the use of Ancient Gates setmessage command.+/setmessage
+AncientGates+ancientgates.setvehicles+Allows the use of Ancient Gates setvehicles command.+/setvehicles
+AncientGates+ancientgates.tpfrom+Allows the use of Ancient Gates tpfrom command.+/tpfrom
+AncientGates+ancientgates.tpto+Allows the use of Ancient Gates tpto command.+/tpto
+AncientGates+ancientgates.addfrom+Allows the use of Ancient Gates addfrom command.+/addfrom
+AncientGates+ancientgates.remfrom+Allows the use of Ancient Gates remfrom command.+/remfrom
+AncientGates+ancientgates.addto.*+Allows the use of Ancient Gates addto command globally.
+AncientGates+ancientgates.addto.local+Allows the use of Ancient Gates addto command locally.
+AncientGates+ancientgates.addto.bungee+Allows the use of Ancient Gates addto command externally.
+AncientGates+ancientgates.remto.*+Allows the use of Ancient Gates remto command globally.
+AncientGates+ancientgates.remto.local+Allows the use of Ancient Gates remto command locally.
+AncientGates+ancientgates.remto.bungee+Allows the use of Ancient Gates remto command externally.
+AncientGates+ancientgates.setto.*+Allows the use of Ancient Gates setto command globally.
+AncientGates+ancientgates.setto.local+Allows the use of Ancient Gates setto command locally.
+AncientGates+ancientgates.setto.bungee+Allows the use of Ancient Gates setto command externally.
+AncientGates+ancientgates.use.*+Gives access to all Ancient Gates.
+AncientGates+ancientgates.econbypass+Bypasses gate costs on all Ancient Gates.
+AncientGates+ancientgates.addserver+Allows the use of Ancient Gates addserver command.+/addserver
+AncientGates+ancientgates.remserver+Allows the use of Ancient Gates remserver command.+/remserver
+AncientGates+ancientgates.serverlist+Allows the use of Ancient Gates serverlist command.+/serverlist
 AntiAFKPlus+AntiAFKPlus.bypass+Bypass the AFK Check
 AntiAFKPlus+AntiAFKPlus.reload+Reload the AFK Plugin+/antiafk reload
 AntiAura+antiaura.bypass+Don't get kicked by any of AntiAura's checks_
